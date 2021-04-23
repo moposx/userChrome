@@ -1,0 +1,5 @@
+= userChrome.css
+
+A stylesheet that brings you a *special* and *unique* Firefox.
+
+Wondering what userChrome is? Please refer to: https://www.userchrome.org/what-is-userchrome-css.html[What is userChrome.css? What can it do?]
